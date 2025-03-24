@@ -7,6 +7,7 @@
 
 ## Join my journey!
 
+https://www.linkedin.com/in/dhaifallah-alotaibi-4b26a3347/ 
 ## Data Science | Data Analysis | Data Managment | Data Governance | Business Intelligence Analyst
 
 
