@@ -3,7 +3,7 @@
 
  # 🌐 Welcome to my Data corner!<br> 
  
- # I'm all about utilizing the power of Data to drive positive change and shed light on important topics that impact society. <br><br> Beyond coding, I'm an advocate of knowledge sharing. In my free time, As I add educational content on LinkedIn about Data Science and Machine Learning with Programming Languages : Python , SQL . <br><br> Join my journey!<br><br>🔭 Current Role: Data Science Student at Jeddah University <br>🌱 Learning Focus: ETL Process, Automation, Data Modeling<br>💬 Ask Me About: Data Science, Python, ML/DL, BI Tools<br>——————————————————————————————<br> 
+ # I'm all about utilizing the power of Data to drive positive change and shed light on important topics that impact society. <br><br> Beyond coding, I'm an advocate of knowledge sharing. In my free time, As I add educational content on LinkedIn about Data Science and Machine Learning with Programming Languages : Python , SQL . <br><br> Join my journey!<br><br>🔭 Current Role: Data Science Student at Jeddah University <br>🌱 Learning Focus: ETL Process, Automation, Data Modeling<br>💬 Ask Me About: Data Science, Python, ML/DL, BI Tools<br>——————————————————————————<br> 
  
  ![Image](https://github.com/user-attachments/assets/9fd4e7d0-74f6-449e-9935-577604c03243) 
  # Data Science | Data Analysis | Data Managment | Data Governance | Business Intelligence Analyst<br>
