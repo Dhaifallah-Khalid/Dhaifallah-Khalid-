@@ -7,7 +7,7 @@
  
  ![Image](https://github.com/user-attachments/assets/9fd4e7d0-74f6-449e-9935-577604c03243) 
 
- # <br>🔭 Current Role: Data Science Student at Jeddah University <br>🌱 Learning Focus: ETL Process, Automation, Data Modeling<br>💬 Ask Me About: Data Science, Python, ML/DL, BI Tools<br>————————————————————————<br> 
+ # <br>🔭 Current Role: Data Science Student at Jeddah University <br>🌱 Learning Focus: ETL Process, Automation, Data Modeling<br>💬 Ask Me About: Data Science, Python, ML/DL, BI Tools<br>———————————————————————<br> 
  # Data Science | Data Analysis | Data Managment | Data Governance | Business Intelligence Analyst<br>
 
 
