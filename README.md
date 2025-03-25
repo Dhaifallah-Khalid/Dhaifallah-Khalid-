@@ -3,8 +3,7 @@
   Beyond coding, I'm an advocate of knowledge sharing. In my free time, As I add educational content on LinkedIn about Data Science and Machine Learning with Programming Languages : Python , SQL .
  
   <br> Join my journey!
-  
-  <br><br> 🔭 Current Role: Data Science Student at Jeddah University <br>🌱 Learning Focus: SQL, Deep Learning, Data Modeling <br>💬 Ask Me About: Data Science, Python, ML/DL, BI Tools                                                      <br>
+    <br><br> 🔭 Current Role: Data Science Student at Jeddah University <br>🌱 Learning Focus: SQL, Deep Learning, Data Modeling <br>💬 Ask Me About: Data Science, Python, ML/DL, BI Tools                                                      <br>
 
 ![Image](https://github.com/user-attachments/assets/8f712dab-a3b2-43a5-96c6-23882656d3c4)
 
