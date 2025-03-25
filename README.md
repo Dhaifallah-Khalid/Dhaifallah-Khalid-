@@ -1,6 +1,7 @@
 # 💫 About Me:
   Hello 👋, I'm Dhaifallah<br><br><br> 🌐 Welcome to my Data corner! <br> <br>  I'm all about utilizing the power of Data to drive positive change and shed light on important topics that impact society. 
   Beyond coding, I'm an advocate of knowledge sharing. In my free time, As I add educational content on LinkedIn about Data Science and Machine Learning with Programming Languages : Python , SQL .
+ 
   <br> Join my journey!
   
   <br><br> 🔭 Current Role: Data Science Student at Jeddah University <br>🌱 Learning Focus: SQL, Deep Learning, Data Modeling <br>💬 Ask Me About: Data Science, Python, ML/DL, BI Tools                                                      <br>
