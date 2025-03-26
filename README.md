@@ -1,5 +1,8 @@
 <h1 align="center">Hello 👋, I'm Dhaifallah</h1>
-<h3 align="center">🌐 Welcome to my Data corner! I'm all about utilizing the power of Data to drive positive change and shed light on important topics that impact society. Beyond coding, I'm an advocate of knowledge sharing. In my free time, As I add educational content on LinkedIn about Data Science and Machine Learning with Programming Languages : Python , SQL . Join my journey!</h3>
+<h3 align="center">🌐 Welcome to my Data corner! 
+  I'm all about utilizing the power of Data to drive positive change and shed light on important topics that impact society. Beyond coding, I'm an advocate of knowledge sharing. In my free time, As I add educational content on LinkedIn about Data Science and Machine Learning with Programming Languages : Python , SQL . 
+  
+  Join my journey!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhaifallah-khalid&label=Profile%20views&color=0e75b6&style=flat" alt="dhaifallah-khalid" /> </p>
 
