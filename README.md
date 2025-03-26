@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **SQL, Deep Learning, Data Modeling.**
 
-- 💬 Ask me about: **Data S cience, Python, ML/DL, BI Tools.**
+- 💬 Ask me about: **Data Science, Python, ML/DL, BI Tools.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
